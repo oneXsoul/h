@@ -1,0 +1,29 @@
+﻿markdown: kramdown
+highlighter: rouge
+
+permalink: blog/:year/:month/:day/:title.html
+paginate: 7
+paginate_path: page/:num
+encoding: "utf-8"
+future: true
+lsi: false
+safe: true
+gems: [jekyll-paginate]
+
+blog:
+    name: Jeray's Blog # 博客名称
+    description: 都会好的 总会有的 # 博客描述
+    title: fork # 网页标题
+    url: oneXsoul.github.io # 博客地址
+    duoshuo: 无 # 多说ID
+    tongji: 无 # 百度统计ID
+    qiniu: # 七牛云地址
+author:
+    name: fork # 作者名称
+    email: 398663997@qq.com # 邮箱地址
+    weibo: http://weibo.com/onexsoul # 微博地址
+    github: https://github.com/oneXsoul # GitHub地址
+    logo: /res/img/psb.jpg # logo地址
+    douban:
+        name: 保密    # 豆瓣地址名称
+        key: 07e5af1c9cee1a1a17b10d55d6ca4e4e            # 豆瓣API Key
