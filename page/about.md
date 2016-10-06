@@ -1,7 +1,7 @@
 ---
 layout: life
 title: 关于Jeray
-duoshuo: true
+duoshuo: flase
 date: 2016-10-06
 ---
 
