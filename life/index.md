@@ -16,7 +16,7 @@ title: 心情杂货铺
 
 ******
 
-<div class='lifelog'>
+ <div class='lifelog'>
   <h2 id="section-1">2016年10月</h2>
 	<table>
 	  <thead>
@@ -34,5 +34,5 @@ title: 心情杂货铺
 	
   </tbody>
  </table>
- < /div>
+ 
 
