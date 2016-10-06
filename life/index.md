@@ -28,10 +28,11 @@ title: 心情杂货铺
     <table>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="/life/2016/9/2016-10-05.html">2016-10-06</a></td>
+      <td style="text-align: center"><a href="/life/2016/10/2016-10-05.html">2016-10-06</a></td>
       <td style="text-align: center"><code class="highlighter-rouge">你说</code></td>
     </tr>
 	
   </tbody>
-</table>
-<div/>
+ </table>
+ < /div>
+
