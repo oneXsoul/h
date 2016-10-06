@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 刀刀亮的学习册子
+title: 别人的学习册子
 duoshuo: true
-date: 2014-10-18
+date: 2016-10-06
 ---
 
-### 1.刀刀亮的网盘
+### 1.资料
 
-[我就是网盘连接](http://pan.baidu.com/s/1mg63JoW)
 
 [在线手册查询](http://docs.pythontab.com/)
 
