@@ -1,6 +1,6 @@
 ---
 layout: life
-date: 0
+date: 2016
 title: 心情杂货铺
 ---
 
