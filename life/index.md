@@ -33,7 +33,7 @@ title: 心情杂货铺
     </tr>
     <tr>
       <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">2016-10-08</a></td>
-      <td style="text-align: center"><code class="highlighter-rouge"></code>冷</td>
+      <td style="text-align: center"><code class="highlighter-rouge">冷</code></td>
     </tr>
 	
     </tbody>
