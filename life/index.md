@@ -21,8 +21,8 @@ title: 心情杂货铺
 	<table>
 	  <thead>
 		<tr>
-		  <th style="text-align: center">☼生命戳记☼</th>
-		  <th style="text-align: center">一图知己</th>
+		  <th style="text-align: center">☼ 生命戳记 ☼</th>
+		  <th style="text-align: center">ONE</th>
 		</tr>
       <thread>
     <table>
