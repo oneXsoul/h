@@ -21,17 +21,21 @@ title: 心情杂货铺
 	<table>
 	  <thead>
 		<tr>
-		  <th style="text-align: center">生命戳</th>
-		  <th style="text-align: center">一图志</th>
+		  <th style="text-align: center">生命戳记</th>
+		  <th style="text-align: center">一图</th>
 		</tr>
       <thread>
     <table>
-  <tbody>
+    <tbody>
     <tr>
       <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
       <td style="text-align: center"><code class="highlighter-rouge">你说</code></td>
     </tr>
+    <tr>
+      <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">2016-10-08</a></td>
+      <td style="text-align: center"><code class="highlighter-rouge"></code>冷</td>
+    </tr>
 	
-  </tbody>
- </table>
- </div>
+    </tbody>
+    </table>
+    </div>

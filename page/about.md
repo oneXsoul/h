@@ -1,12 +1,12 @@
 ---
 layout: life
 title: 关于Jeray
-duoshuo: flase
+duoshuo: true
 date: 2016-10-06
 ---
 
 > 
-如果天黑了，我就是太阳。
+如果天很黑，我会请嫦娥奔月。
 
 
 * 你或许可以联系到我:
