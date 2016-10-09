@@ -14,7 +14,7 @@ title: 心情杂货铺
 
 > **来者轻点生命戳**
 
-******
+****
 
  <div class='lifelog'>
   <h2 id="section-1">2016年10月</h2>
@@ -24,8 +24,7 @@ title: 心情杂货铺
 		  <th style="text-align: center">☼ 生命戳记 ☼</th>
 		  <th style="text-align: center">ONE</th>
 		</tr>
-      <thread>
-    <table>
+      </thead>
     <tbody>
     <tr>
       <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
@@ -35,7 +34,12 @@ title: 心情杂货铺
       <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">2016-10-08</a></td>
       <td style="text-align: center"><code class="highlighter-rouge">冷</code></td>
     </tr>
+    <tr>
+      <td style="text-align: center"><a href="/life/2016/10/2016-10-09.html">2016-10-09</a></td>
+      <td style="text-align: center"><code class="highlighter-rouge">更冷</code></td>
+    </tr>
 	
     </tbody>
     </table>
     </div>
+****
