@@ -46,8 +46,8 @@ title: 故事的小黄花
 	<table>
 	  <thead>
 		<tr>
-		  <th style="text-align: center">趁时间没发觉</th>
-		  <th style="text-align: center">X</th>
+		  <th style="text-align: center">moonbeam</th>
+		  <th style="text-align: center">mooch</th>
 		</tr>
       </thead>
     <tbody>
