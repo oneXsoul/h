@@ -72,6 +72,10 @@ title: 故事的小黄花
         <td style="text-align: center"><a href="/life/2016/10/2016-10-11.html">2016-10-11</a></td>
         <td style="text-align: center"><code class="highlighter-rouge">微笑.jpg</code></td>
      </tr>
+     <tr>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-13.html">2016-10-13</a></td>
+        <td style="text-align: center"><code class="highlighter-rouge">开心吗</code></td>
+     </tr>
     </tbody>
     </table>
     </div>
