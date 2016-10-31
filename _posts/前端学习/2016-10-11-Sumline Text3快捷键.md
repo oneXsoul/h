@@ -1,3 +1,11 @@
+---
+layout : life
+title:  Sublime Text 3 快捷键
+category : 前端学习
+duoshuo: true
+date : 2016-10-31
+---
+
 # Sublime Text 3 快捷键 #
 
 Ctrl+Shift+P：打开命令面板
