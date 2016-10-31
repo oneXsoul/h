@@ -1,6 +1,6 @@
 ---
 layout : life
-title:  Sublime Text 3 快捷键
+title:  Sumline Text 3 快捷键
 category : 前端学习
 duoshuo: true
 date : 2016-10-31
