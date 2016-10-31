@@ -8,6 +8,8 @@ date : 2016-10-31
 
 # Sublime Text 3 快捷键 #
 
+<!-- more -->
+
 Ctrl+Shift+P：打开命令面板
 
 Ctrl+P：搜索项目中的文件
