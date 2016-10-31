@@ -88,6 +88,10 @@ title: 故事的小黄花
         <td style="text-align: center"><a href="/life/2016/10/2016-10-27.html">2016-10-27</a></td>
         <td style="text-align: center"><code class="highlighter-rouge">💀</code></td>
      </tr>
+    <tr>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-31.html">2016-10-31</a></td>
+        <td style="text-align: center"><code class="highlighter-rouge">🎈</code></td>
+     </tr>
     </tbody>
     </table>
     </div>
