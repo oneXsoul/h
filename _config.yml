@@ -15,7 +15,7 @@ blog:
     description: 都会好的 总会有的 # 博客描述
     title: fork # 网页标题
     url: oneXsoul.github.io # 博客地址
-    duoshuo: 无 # 多说ID
+    duoshuo: 你说的每句话我都记得 # 多说ID
     tongji: 无 # 百度统计ID
     qiniu: # 七牛云地址
 author:
