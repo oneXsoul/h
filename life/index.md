@@ -1,5 +1,5 @@
 ---
-layout: life
+layout: post
 date: 2016
 title: 故事的小黄花
 ---
