@@ -1,5 +1,5 @@
 ---
-layout : blog
+layout : life
 title:  Sublime Text 3 快捷键
 category : 前端学习
 duoshuo: true
