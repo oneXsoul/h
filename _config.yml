@@ -12,14 +12,14 @@ gems: [jekyll-paginate]
 
 blog:
     name: Jeray's Blog # 博客名称
-    description: 我只想看见指尖有多少异象闪光 # 博客描述
+    description: 都会好的 总会有的 # 博客描述
     title: fork # 网页标题
     url: oneXsoul.github.io # 博客地址
     duoshuo: 你说的每句话我都记得 # 多说ID
     tongji: 无 # 百度统计ID
     qiniu: # 七牛云地址
 author:
-    name: welcome # 作者名称
+    name: Jeray # 作者名称
     email: 398663997@qq.com # 邮箱地址
     weibo: http://weibo.com/onexsoul # 微博地址
     github: https://github.com/oneXsoul # GitHub地址
